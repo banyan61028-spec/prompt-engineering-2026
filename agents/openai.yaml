@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prompt Engineering 2026"
+  short_description: "精炼编写、优化与诊断提示词，支持多平台适配、事实回退和质量检查"
+  default_prompt: "使用 $prompt-engineering-2026 帮我编写或优化一份可直接复制使用的提示词。"
+policy:
+  allow_implicit_invocation: true
